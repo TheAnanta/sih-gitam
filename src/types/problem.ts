@@ -15,6 +15,7 @@ export interface Problem {
   theme: string | string[];
   submission_count: number | null;
   year: number;
+  hidden?: boolean;
 }
 
 export function asArray(value: string | string[] | undefined | null): string[] {

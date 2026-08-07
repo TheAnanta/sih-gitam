@@ -34,7 +34,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 286,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25002",
@@ -78,7 +79,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25003",
@@ -110,7 +112,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": 74,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25004",
@@ -146,7 +149,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 256,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25005",
@@ -181,7 +185,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 84,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25006",
@@ -219,7 +224,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 42,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25007",
@@ -252,7 +258,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 50,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25008",
@@ -288,7 +295,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": 262,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25009",
@@ -325,7 +333,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 393,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25010",
@@ -371,7 +380,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25011",
@@ -408,7 +418,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 258,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25012",
@@ -443,7 +454,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 316,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25013",
@@ -482,7 +494,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25014",
@@ -517,7 +530,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 167,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25015",
@@ -559,7 +573,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 232,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25016",
@@ -594,7 +609,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25017",
@@ -634,7 +650,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 244,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25018",
@@ -671,7 +688,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25019",
@@ -709,7 +727,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 223,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25020",
@@ -745,7 +764,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 105,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25021",
@@ -779,7 +799,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": 80,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25022",
@@ -816,7 +837,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 191,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25023",
@@ -853,7 +875,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 177,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25024",
@@ -891,7 +914,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 85,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25025",
@@ -930,7 +954,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 70,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25026",
@@ -963,7 +988,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 105,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25027",
@@ -1007,7 +1033,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 136,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25028",
@@ -1039,7 +1066,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 346,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25029",
@@ -1075,7 +1103,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 142,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25030",
@@ -1118,7 +1147,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25031",
@@ -1154,7 +1184,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25032",
@@ -1198,7 +1229,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": 245,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25033",
@@ -1235,7 +1267,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 115,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25034",
@@ -1272,7 +1305,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 276,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25035",
@@ -1309,7 +1343,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 103,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25036",
@@ -1347,7 +1382,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 221,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25037",
@@ -1382,7 +1418,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 22,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25038",
@@ -1419,7 +1456,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 130,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25039",
@@ -1463,7 +1501,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": 138,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25040",
@@ -1501,7 +1540,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 186,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25041",
@@ -1539,7 +1579,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 76,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25042",
@@ -1571,7 +1612,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 49,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25043",
@@ -1605,7 +1647,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 29,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25044",
@@ -1648,7 +1691,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 253,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25045",
@@ -1682,7 +1726,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 144,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25046",
@@ -1721,7 +1766,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 254,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25047",
@@ -1761,7 +1807,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": 180,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25048",
@@ -1794,7 +1841,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 350,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25049",
@@ -1833,7 +1881,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25050",
@@ -1873,7 +1922,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 355,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25051",
@@ -1911,7 +1961,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 122,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25052",
@@ -1947,7 +1998,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 104,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25053",
@@ -1980,7 +2032,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 175,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25054",
@@ -2009,7 +2062,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 17,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25055",
@@ -2041,7 +2095,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25056",
@@ -2068,7 +2123,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 7,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25057",
@@ -2105,7 +2161,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 22,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25058",
@@ -2142,7 +2199,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 22,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25059",
@@ -2170,7 +2228,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 44,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25060",
@@ -2201,7 +2260,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 293,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25061",
@@ -2243,7 +2303,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": 125,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25062",
@@ -2281,7 +2342,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 173,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25063",
@@ -2314,7 +2376,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 87,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25064",
@@ -2348,7 +2411,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 21,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25065",
@@ -2387,7 +2451,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 69,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25066",
@@ -2426,7 +2491,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 80,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25067",
@@ -2461,7 +2527,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 33,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25068",
@@ -2498,7 +2565,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 76,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25069",
@@ -2531,7 +2599,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 32,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25070",
@@ -2566,7 +2635,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 140,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25071",
@@ -2605,7 +2675,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": 127,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25072",
@@ -2633,7 +2704,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 86,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25073",
@@ -2670,7 +2742,8 @@
     "category": "Software",
     "theme": "Fitness & Sports",
     "submission_count": 232,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25074",
@@ -2710,7 +2783,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 187,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25075",
@@ -2748,7 +2822,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 72,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25076",
@@ -2790,7 +2865,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 246,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25077",
@@ -2822,7 +2898,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 71,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25079",
@@ -2859,7 +2936,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": 28,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25080",
@@ -2898,7 +2976,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 78,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25081",
@@ -2937,7 +3016,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 87,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25082",
@@ -2975,7 +3055,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": 224,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25083",
@@ -3012,7 +3093,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 168,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25084",
@@ -3040,7 +3122,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 38,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25085",
@@ -3068,7 +3151,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 33,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25090",
@@ -3094,7 +3178,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 82,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25091",
@@ -3131,7 +3216,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 68,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25092",
@@ -3170,7 +3256,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25093",
@@ -3209,7 +3296,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 147,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25094",
@@ -3248,7 +3336,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25095",
@@ -3276,7 +3365,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": 32,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25096",
@@ -3302,7 +3392,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25097",
@@ -3336,7 +3427,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 32,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25098",
@@ -3362,7 +3454,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 15,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25099",
@@ -3401,7 +3494,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 169,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25100",
@@ -3435,7 +3529,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 31,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25101",
@@ -3472,7 +3567,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 89,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25102",
@@ -3505,7 +3601,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 132,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25103",
@@ -3539,7 +3636,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 107,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25104",
@@ -3575,7 +3673,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 164,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25107",
@@ -3606,7 +3705,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 97,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25108",
@@ -3650,7 +3750,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 61,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25109",
@@ -3688,7 +3789,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 197,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25110",
@@ -3719,7 +3821,8 @@
     "category": "Hardware",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 21,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25111",
@@ -3748,7 +3851,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 157,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25112",
@@ -3784,7 +3888,8 @@
     "category": "Hardware",
     "theme": "Fitness & Sports",
     "submission_count": 22,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25113",
@@ -3810,7 +3915,8 @@
     "category": "Hardware",
     "theme": "Heritage & Culture",
     "submission_count": 7,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25114",
@@ -3837,7 +3943,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 321,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25115",
@@ -3863,7 +3970,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 64,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25116",
@@ -3894,7 +4002,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 168,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25117",
@@ -3923,7 +4032,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": 136,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25118",
@@ -3950,7 +4060,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 175,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25119",
@@ -3982,7 +4093,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": 140,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25120",
@@ -4017,7 +4129,8 @@
     "category": "Hardware",
     "theme": "Travel & Tourism",
     "submission_count": 31,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25121",
@@ -4045,7 +4158,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": 45,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25122",
@@ -4074,7 +4188,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 81,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25123",
@@ -4099,7 +4214,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": 28,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25124",
@@ -4127,7 +4243,8 @@
     "category": "Hardware",
     "theme": "Toys & Games",
     "submission_count": 31,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25125",
@@ -4153,7 +4270,8 @@
     "category": "Hardware",
     "theme": "Space Technology",
     "submission_count": 23,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25126",
@@ -4192,7 +4310,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 217,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25127",
@@ -4221,7 +4340,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 137,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25128",
@@ -4245,7 +4365,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 140,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25129",
@@ -4276,7 +4397,8 @@
     "category": "Software",
     "theme": "Fitness & Sports",
     "submission_count": 69,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25130",
@@ -4305,7 +4427,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 95,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25131",
@@ -4342,7 +4465,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 500,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25132",
@@ -4368,7 +4492,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 215,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25133",
@@ -4405,7 +4530,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 45,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25134",
@@ -4434,7 +4560,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": 38,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25135",
@@ -4463,7 +4590,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 271,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25136",
@@ -4499,7 +4627,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": 50,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25137",
@@ -4538,7 +4667,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": 255,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25138",
@@ -4573,7 +4703,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 117,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25139",
@@ -4602,7 +4733,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": 105,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25140",
@@ -4633,7 +4765,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 232,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25141",
@@ -4660,7 +4793,8 @@
     "category": "Software",
     "theme": "Toys & Games",
     "submission_count": 37,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25142",
@@ -4682,7 +4816,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 72,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25143",
@@ -4715,7 +4850,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25144",
@@ -4748,7 +4884,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25145",
@@ -4783,7 +4920,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 53,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25146",
@@ -4814,7 +4952,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25147",
@@ -4844,7 +4983,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25148",
@@ -4875,7 +5015,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25149",
@@ -4914,7 +5055,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 17,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25150",
@@ -4948,7 +5090,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25151",
@@ -4985,7 +5128,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25152",
@@ -5022,7 +5166,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25153",
@@ -5056,7 +5201,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25154",
@@ -5096,7 +5242,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25155",
@@ -5130,7 +5277,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 14,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25156",
@@ -5163,7 +5311,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25157",
@@ -5194,7 +5343,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 12,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25158",
@@ -5225,7 +5375,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25159",
@@ -5261,7 +5412,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 32,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25160",
@@ -5296,7 +5448,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 9,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25161",
@@ -5334,7 +5487,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25162",
@@ -5370,7 +5524,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25163",
@@ -5400,7 +5555,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25164",
@@ -5432,7 +5588,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25165",
@@ -5475,7 +5632,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 51,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25166",
@@ -5516,7 +5674,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25167",
@@ -5561,7 +5720,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 19,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25168",
@@ -5599,7 +5759,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": 87,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25169",
@@ -5631,7 +5792,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25170",
@@ -5669,7 +5831,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25171",
@@ -5706,7 +5869,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25172",
@@ -5746,7 +5910,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25173",
@@ -5784,7 +5949,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 7,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25174",
@@ -5826,7 +5992,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 9,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25175",
@@ -5862,7 +6029,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 30,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25176",
@@ -5898,7 +6066,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 6,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25177",
@@ -5931,7 +6100,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": 7,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25178",
@@ -5967,7 +6137,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": 6,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25179",
@@ -5998,7 +6169,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 12,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25180",
@@ -6033,7 +6205,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 0,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25181",
@@ -6071,7 +6244,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 12,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25182",
@@ -6111,7 +6285,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 7,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25183",
@@ -6150,7 +6325,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 20,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25184",
@@ -6187,7 +6363,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 10,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25185",
@@ -6219,7 +6396,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25186",
@@ -6252,7 +6430,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25187",
@@ -6286,7 +6465,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 0,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25188",
@@ -6317,7 +6497,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 0,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25189",
@@ -6353,7 +6534,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25190",
@@ -6389,7 +6571,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 0,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25191",
@@ -6427,7 +6610,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25192",
@@ -6461,7 +6645,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 9,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25193",
@@ -6492,7 +6677,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25194",
@@ -6527,7 +6713,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 6,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25195",
@@ -6564,7 +6751,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25196",
@@ -6602,7 +6790,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25197",
@@ -6642,7 +6831,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 12,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25198",
@@ -6678,7 +6868,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 10,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25199",
@@ -6717,7 +6908,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 52,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25200",
@@ -6754,7 +6946,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 10,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25201",
@@ -6796,7 +6989,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25202",
@@ -6838,7 +7032,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 6,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25203",
@@ -6878,7 +7073,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 13,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25204",
@@ -6914,7 +7110,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25205",
@@ -6947,7 +7144,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 30,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25206",
@@ -6980,7 +7178,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": 0,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25207",
@@ -7018,7 +7217,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": 18,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25208",
@@ -7052,7 +7252,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25209",
@@ -7088,7 +7289,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25210",
@@ -7125,7 +7327,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25211",
@@ -7156,7 +7359,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 1,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25212",
@@ -7192,7 +7396,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 1,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25213",
@@ -7228,7 +7433,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 10,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25214",
@@ -7259,7 +7465,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 15,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25215",
@@ -7295,7 +7502,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 18,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25216",
@@ -7338,7 +7546,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 23,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25217",
@@ -7373,7 +7582,8 @@
     "category": "Hardware",
     "theme": "Space Technology",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25218",
@@ -7409,7 +7619,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25219",
@@ -7441,7 +7652,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 28,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25220",
@@ -7480,7 +7692,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25221",
@@ -7512,7 +7725,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25222",
@@ -7549,7 +7763,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 6,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25223",
@@ -7580,7 +7795,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25224",
@@ -7606,7 +7822,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25225",
@@ -7634,7 +7851,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25226",
@@ -7673,7 +7891,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": 28,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25227",
@@ -7714,7 +7933,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": 12,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25228",
@@ -7752,7 +7972,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25229",
@@ -7789,7 +8010,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 13,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25230",
@@ -7820,7 +8042,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25231",
@@ -7861,7 +8084,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 21,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25232",
@@ -7893,7 +8117,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 4,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25233",
@@ -7933,7 +8158,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25234",
@@ -7973,7 +8199,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25235",
@@ -8008,7 +8235,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25236",
@@ -8038,7 +8266,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25237",
@@ -8070,7 +8299,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25238",
@@ -8103,7 +8333,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 2,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25239",
@@ -8135,7 +8366,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 3,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25240",
@@ -8171,7 +8403,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": 16,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25241",
@@ -8206,7 +8439,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": 18,
-    "year": 2025
+    "year": 2025,
+    "hidden": true
   },
   {
     "ps_id": "25242",
@@ -8240,7 +8474,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 8,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25243",
@@ -8279,7 +8514,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 5,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25244",
@@ -8310,7 +8546,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": 11,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "25245",
@@ -8347,7 +8584,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": 22,
-    "year": 2025
+    "year": 2025,
+    "hidden": false
   },
   {
     "ps_id": "SIH1524",
@@ -8365,7 +8603,8 @@
     "category": "Hardware",
     "theme": "Smart Resource Conservation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1525",
@@ -8383,7 +8622,8 @@
     "category": "Software",
     "theme": "Smart Resource Conservation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1526",
@@ -8401,7 +8641,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1527",
@@ -8419,7 +8660,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1528",
@@ -8437,7 +8679,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1529",
@@ -8455,7 +8698,8 @@
     "category": "Hardware",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1530",
@@ -8473,7 +8717,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1531",
@@ -8491,7 +8736,8 @@
     "category": "Hardware",
     "theme": "Travel & Tourism",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1532",
@@ -8509,7 +8755,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1533",
@@ -8527,7 +8774,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1534",
@@ -8545,7 +8793,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1535",
@@ -8563,7 +8812,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1536",
@@ -8581,7 +8831,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1537",
@@ -8599,7 +8850,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1538",
@@ -8617,7 +8869,8 @@
     "category": "Hardware",
     "theme": "Heritage & Culture",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1539",
@@ -8635,7 +8888,8 @@
     "category": "Hardware",
     "theme": "Fitness & Sports",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1540",
@@ -8653,7 +8907,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1541",
@@ -8671,7 +8926,8 @@
     "category": "Hardware",
     "theme": "Toys & Games",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1542",
@@ -8689,7 +8945,8 @@
     "category": "Hardware",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1543",
@@ -8707,7 +8964,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1544",
@@ -8725,7 +8983,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1545",
@@ -8743,7 +9002,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1546",
@@ -8761,7 +9021,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1547",
@@ -8779,7 +9040,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1548",
@@ -8797,7 +9059,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1549",
@@ -8815,7 +9078,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1550",
@@ -8833,7 +9097,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1554",
@@ -8851,7 +9116,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1555",
@@ -8869,7 +9135,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1556",
@@ -8887,7 +9154,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1557",
@@ -8905,7 +9173,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1558",
@@ -8923,7 +9192,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1559",
@@ -8941,7 +9211,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1560",
@@ -8959,7 +9230,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1561",
@@ -8977,7 +9249,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1562",
@@ -8995,7 +9268,8 @@
     "category": "Hardware",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1563",
@@ -9013,7 +9287,8 @@
     "category": "Hardware",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1564",
@@ -9031,7 +9306,8 @@
     "category": "Hardware",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1565",
@@ -9049,7 +9325,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1566",
@@ -9067,7 +9344,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1567",
@@ -9085,7 +9363,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1568",
@@ -9103,7 +9382,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1569",
@@ -9121,7 +9401,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1570",
@@ -9139,7 +9420,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1571",
@@ -9157,7 +9439,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1572",
@@ -9175,7 +9458,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1573",
@@ -9193,7 +9477,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1574",
@@ -9211,7 +9496,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1575",
@@ -9229,7 +9515,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1576",
@@ -9247,7 +9534,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1577",
@@ -9265,7 +9553,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1578",
@@ -9283,7 +9572,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1579",
@@ -9301,7 +9591,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1580",
@@ -9319,7 +9610,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1581",
@@ -9337,7 +9629,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1582",
@@ -9355,7 +9648,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1583",
@@ -9373,7 +9667,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1584",
@@ -9391,7 +9686,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1585",
@@ -9409,7 +9705,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1586",
@@ -9427,7 +9724,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1587",
@@ -9445,7 +9743,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1588",
@@ -9463,7 +9762,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1589",
@@ -9481,7 +9781,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1590",
@@ -9499,7 +9800,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1591",
@@ -9517,7 +9819,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1592",
@@ -9535,7 +9838,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1593",
@@ -9553,7 +9857,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1594",
@@ -9571,7 +9876,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1595",
@@ -9589,7 +9895,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1596",
@@ -9607,7 +9914,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1597",
@@ -9625,7 +9933,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1598",
@@ -9643,7 +9952,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1599",
@@ -9661,7 +9971,8 @@
     "category": "Software",
     "theme": "Fitness & Sports",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1600",
@@ -9679,7 +9990,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1601",
@@ -9697,7 +10009,8 @@
     "category": "Software",
     "theme": "Toys & Games",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1602",
@@ -9715,7 +10028,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1603",
@@ -9733,7 +10047,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1604",
@@ -9751,7 +10066,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1605",
@@ -9769,7 +10085,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1606",
@@ -9787,7 +10104,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1607",
@@ -9805,7 +10123,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1608",
@@ -9823,7 +10142,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1609",
@@ -9841,7 +10161,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1610",
@@ -9859,7 +10180,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1611",
@@ -9877,7 +10199,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1612",
@@ -9895,7 +10218,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1613",
@@ -9913,7 +10237,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1614",
@@ -9931,7 +10256,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1615",
@@ -9949,7 +10275,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1616",
@@ -9967,7 +10294,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1617",
@@ -9985,7 +10313,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1618",
@@ -10003,7 +10332,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1619",
@@ -10021,7 +10351,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1620",
@@ -10039,7 +10370,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1621",
@@ -10057,7 +10389,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1622",
@@ -10075,7 +10408,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1623",
@@ -10093,7 +10427,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1624",
@@ -10111,7 +10446,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1625",
@@ -10129,7 +10465,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1626",
@@ -10147,7 +10484,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1627",
@@ -10165,7 +10503,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1628",
@@ -10183,7 +10522,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1629",
@@ -10201,7 +10541,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1630",
@@ -10219,7 +10560,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1631",
@@ -10237,7 +10579,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1632",
@@ -10255,7 +10598,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1633",
@@ -10273,7 +10617,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1637",
@@ -10291,7 +10636,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1638",
@@ -10309,7 +10655,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1639",
@@ -10327,7 +10674,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1640",
@@ -10345,7 +10693,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1641",
@@ -10363,7 +10712,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1642",
@@ -10381,7 +10731,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1643",
@@ -10399,7 +10750,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1644",
@@ -10417,7 +10769,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1645",
@@ -10435,7 +10788,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1646",
@@ -10453,7 +10807,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1647",
@@ -10471,7 +10826,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1648",
@@ -10489,7 +10845,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1649",
@@ -10507,7 +10864,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1650",
@@ -10525,7 +10883,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1651",
@@ -10543,7 +10902,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1652",
@@ -10561,7 +10921,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1653",
@@ -10579,7 +10940,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1654",
@@ -10597,7 +10959,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1655",
@@ -10615,7 +10978,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1656",
@@ -10633,7 +10997,8 @@
     "category": "Software",
     "theme": "Travel & Tourism",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1657",
@@ -10651,7 +11016,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1658",
@@ -10669,7 +11035,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1659",
@@ -10687,7 +11054,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1660",
@@ -10705,7 +11073,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1661",
@@ -10723,7 +11092,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1664",
@@ -10741,7 +11111,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1666",
@@ -10759,7 +11130,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1667",
@@ -10777,7 +11149,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1668",
@@ -10795,7 +11168,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1669",
@@ -10813,7 +11187,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1670",
@@ -10831,7 +11206,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1671",
@@ -10849,7 +11225,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1672",
@@ -10867,7 +11244,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1673",
@@ -10885,7 +11263,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1674",
@@ -10903,7 +11282,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1675",
@@ -10921,7 +11301,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1676",
@@ -10939,7 +11320,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1677",
@@ -10957,7 +11339,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1678",
@@ -10975,7 +11358,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1679",
@@ -10993,7 +11377,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1680",
@@ -11011,7 +11396,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1681",
@@ -11029,7 +11415,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1682",
@@ -11047,7 +11434,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1683",
@@ -11065,7 +11453,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1684",
@@ -11083,7 +11472,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1685",
@@ -11101,7 +11491,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1686",
@@ -11119,7 +11510,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1687",
@@ -11137,7 +11529,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1688",
@@ -11155,7 +11548,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1689",
@@ -11173,7 +11567,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1690",
@@ -11191,7 +11586,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1691",
@@ -11209,7 +11605,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1692",
@@ -11227,7 +11624,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1693",
@@ -11245,7 +11643,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1694",
@@ -11263,7 +11662,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1695",
@@ -11281,7 +11681,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1696",
@@ -11299,7 +11700,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1697",
@@ -11317,7 +11719,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1698",
@@ -11335,7 +11738,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1699",
@@ -11353,7 +11757,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1700",
@@ -11371,7 +11776,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1701",
@@ -11389,7 +11795,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1702",
@@ -11407,7 +11814,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1703",
@@ -11425,7 +11833,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1704",
@@ -11443,7 +11852,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1705",
@@ -11461,7 +11871,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1706",
@@ -11479,7 +11890,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1707",
@@ -11497,7 +11909,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1708",
@@ -11515,7 +11928,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1709",
@@ -11533,7 +11947,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1710",
@@ -11551,7 +11966,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1711",
@@ -11569,7 +11985,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1712",
@@ -11587,7 +12004,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1714",
@@ -11605,7 +12023,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1715",
@@ -11623,7 +12042,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1716",
@@ -11641,7 +12061,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1717",
@@ -11659,7 +12080,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1718",
@@ -11677,7 +12099,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1719",
@@ -11695,7 +12118,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1720",
@@ -11713,7 +12137,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1721",
@@ -11731,7 +12156,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1722",
@@ -11749,7 +12175,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1723",
@@ -11767,7 +12194,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1724",
@@ -11785,7 +12213,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1725",
@@ -11803,7 +12232,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1726",
@@ -11821,7 +12251,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1727",
@@ -11839,7 +12270,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1728",
@@ -11857,7 +12289,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1729",
@@ -11875,7 +12308,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1730",
@@ -11893,7 +12327,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1731",
@@ -11911,7 +12346,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1732",
@@ -11929,7 +12365,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1733",
@@ -11947,7 +12384,8 @@
     "category": "Software",
     "theme": "Space Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1734",
@@ -11965,7 +12403,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1735",
@@ -11983,7 +12422,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1736",
@@ -12001,7 +12441,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1737",
@@ -12019,7 +12460,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1738",
@@ -12037,7 +12479,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1739",
@@ -12055,7 +12498,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1740",
@@ -12073,7 +12517,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1741",
@@ -12091,7 +12536,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1742",
@@ -12109,7 +12555,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1743",
@@ -12127,7 +12574,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1744",
@@ -12145,7 +12593,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1745",
@@ -12163,7 +12612,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1746",
@@ -12181,7 +12631,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1747",
@@ -12199,7 +12650,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1748",
@@ -12217,7 +12669,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1749",
@@ -12235,7 +12688,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1750",
@@ -12253,7 +12707,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1751",
@@ -12271,7 +12726,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1752",
@@ -12289,7 +12745,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1753",
@@ -12307,7 +12764,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1754",
@@ -12325,7 +12783,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1755",
@@ -12343,7 +12802,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1756",
@@ -12361,7 +12821,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1757",
@@ -12379,7 +12840,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1758",
@@ -12397,7 +12859,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1759",
@@ -12415,7 +12878,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1760",
@@ -12433,7 +12897,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1761",
@@ -12451,7 +12916,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1762",
@@ -12469,7 +12935,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1764",
@@ -12487,7 +12954,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1765",
@@ -12505,7 +12973,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1767",
@@ -12523,7 +12992,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1768",
@@ -12541,7 +13011,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1770",
@@ -12559,7 +13030,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1771",
@@ -12577,7 +13049,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1772",
@@ -12595,7 +13068,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1773",
@@ -12613,7 +13087,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1774",
@@ -12631,7 +13106,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1775",
@@ -12649,7 +13125,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1776",
@@ -12667,7 +13144,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": false
   },
   {
     "ps_id": "SIH1777",
@@ -12685,7 +13163,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1778",
@@ -12703,7 +13182,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1779",
@@ -12721,7 +13201,8 @@
     "category": "Software",
     "theme": "Toys & Games",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1780",
@@ -12739,7 +13220,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1781",
@@ -12757,7 +13239,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1782",
@@ -12775,7 +13258,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2024
+    "year": 2024,
+    "hidden": true
   },
   {
     "ps_id": "SIH1278",
@@ -12793,7 +13277,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1279",
@@ -12811,7 +13296,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1280",
@@ -12829,7 +13315,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1281",
@@ -12847,7 +13334,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1282",
@@ -12865,7 +13353,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1283",
@@ -12883,7 +13372,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1284",
@@ -12901,7 +13391,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1285",
@@ -12919,7 +13410,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1286",
@@ -12937,7 +13429,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1287",
@@ -12955,7 +13448,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1289",
@@ -12973,7 +13467,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1290",
@@ -12991,7 +13486,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1291",
@@ -13009,7 +13505,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1292",
@@ -13027,7 +13524,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1295",
@@ -13045,7 +13543,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1296",
@@ -13063,7 +13562,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1297",
@@ -13081,7 +13581,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1301",
@@ -13099,7 +13600,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1302",
@@ -13117,7 +13619,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1304",
@@ -13135,7 +13638,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1305",
@@ -13153,7 +13657,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1307",
@@ -13171,7 +13676,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1308",
@@ -13189,7 +13695,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1309",
@@ -13207,7 +13714,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1311",
@@ -13225,7 +13733,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1312",
@@ -13243,7 +13752,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1314",
@@ -13261,7 +13771,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1316",
@@ -13279,7 +13790,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1318",
@@ -13297,7 +13809,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1319",
@@ -13315,7 +13828,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1320",
@@ -13333,7 +13847,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1321",
@@ -13351,7 +13866,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1322",
@@ -13369,7 +13885,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1324",
@@ -13387,7 +13904,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1325",
@@ -13405,7 +13923,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1326",
@@ -13423,7 +13942,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1329",
@@ -13441,7 +13961,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1331",
@@ -13459,7 +13980,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1332",
@@ -13477,7 +13999,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1333",
@@ -13495,7 +14018,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1334",
@@ -13513,7 +14037,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1338",
@@ -13531,7 +14056,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1339",
@@ -13549,7 +14075,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1340",
@@ -13567,7 +14094,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1341",
@@ -13585,7 +14113,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1342",
@@ -13603,7 +14132,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1344",
@@ -13621,7 +14151,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1345",
@@ -13639,7 +14170,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1346",
@@ -13657,7 +14189,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1347",
@@ -13675,7 +14208,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1348",
@@ -13693,7 +14227,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1349",
@@ -13711,7 +14246,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1350",
@@ -13729,7 +14265,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1351",
@@ -13747,7 +14284,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1352",
@@ -13765,7 +14303,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1355",
@@ -13783,7 +14322,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1356",
@@ -13801,7 +14341,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1357",
@@ -13819,7 +14360,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1358",
@@ -13837,7 +14379,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1359",
@@ -13855,7 +14398,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1360",
@@ -13873,7 +14417,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1362",
@@ -13891,7 +14436,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1363",
@@ -13909,7 +14455,8 @@
     "category": "Software",
     "theme": "Fitness & Sports",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1364",
@@ -13927,7 +14474,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1366",
@@ -13945,7 +14493,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1367",
@@ -13963,7 +14512,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1369",
@@ -13981,7 +14531,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1370",
@@ -13999,7 +14550,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1371",
@@ -14017,7 +14569,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1372",
@@ -14035,7 +14588,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1374",
@@ -14053,7 +14607,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1377",
@@ -14071,7 +14626,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1378",
@@ -14089,7 +14645,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1380",
@@ -14107,7 +14664,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1381",
@@ -14125,7 +14683,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1382",
@@ -14143,7 +14702,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1383",
@@ -14161,7 +14721,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1384",
@@ -14179,7 +14740,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1385",
@@ -14197,7 +14759,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1386",
@@ -14215,7 +14778,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1388",
@@ -14233,7 +14797,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1389",
@@ -14251,7 +14816,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1391",
@@ -14269,7 +14835,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1392",
@@ -14287,7 +14854,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1393",
@@ -14305,7 +14873,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1394",
@@ -14323,7 +14892,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1395",
@@ -14341,7 +14911,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1396",
@@ -14359,7 +14930,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1397",
@@ -14377,7 +14949,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1398",
@@ -14395,7 +14968,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1401",
@@ -14413,7 +14987,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1403",
@@ -14431,7 +15006,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1405",
@@ -14449,7 +15025,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1407",
@@ -14467,7 +15044,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1408",
@@ -14485,7 +15063,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1409",
@@ -14503,7 +15082,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1410",
@@ -14521,7 +15101,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1411",
@@ -14539,7 +15120,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1412",
@@ -14557,7 +15139,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1413",
@@ -14575,7 +15158,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1416",
@@ -14593,7 +15177,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1417",
@@ -14611,7 +15196,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1418",
@@ -14629,7 +15215,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1419",
@@ -14647,7 +15234,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1420",
@@ -14665,7 +15253,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1421",
@@ -14683,7 +15272,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1422",
@@ -14701,7 +15291,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1423",
@@ -14719,7 +15310,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1428",
@@ -14737,7 +15329,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1431",
@@ -14755,7 +15348,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1432",
@@ -14773,7 +15367,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1433",
@@ -14791,7 +15386,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1434",
@@ -14809,7 +15405,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1435",
@@ -14827,7 +15424,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1436",
@@ -14845,7 +15443,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1437",
@@ -14863,7 +15462,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1438",
@@ -14881,7 +15481,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1440",
@@ -14899,7 +15500,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1442",
@@ -14917,7 +15519,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1443",
@@ -14935,7 +15538,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1445",
@@ -14953,7 +15557,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1446",
@@ -14971,7 +15576,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1447",
@@ -14989,7 +15595,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1449",
@@ -15007,7 +15614,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1450",
@@ -15025,7 +15633,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1451",
@@ -15043,7 +15652,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1452",
@@ -15061,7 +15671,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1454",
@@ -15079,7 +15690,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1455",
@@ -15097,7 +15709,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1456",
@@ -15115,7 +15728,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1457",
@@ -15133,7 +15747,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1458",
@@ -15151,7 +15766,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1459",
@@ -15169,7 +15785,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1460",
@@ -15187,7 +15804,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1461",
@@ -15205,7 +15823,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1462",
@@ -15223,7 +15842,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1464",
@@ -15241,7 +15861,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1465",
@@ -15259,7 +15880,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1467",
@@ -15277,7 +15899,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1468",
@@ -15295,7 +15918,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1483",
@@ -15313,7 +15937,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1484",
@@ -15331,7 +15956,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1485",
@@ -15349,7 +15975,8 @@
     "category": "Software",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1486",
@@ -15367,7 +15994,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1487",
@@ -15385,7 +16013,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1489",
@@ -15403,7 +16032,8 @@
     "category": "Software",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1490",
@@ -15421,7 +16051,8 @@
     "category": "Software",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1491",
@@ -15439,7 +16070,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1492",
@@ -15457,7 +16089,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1493",
@@ -15475,7 +16108,8 @@
     "category": "Software",
     "theme": "Heritage & Culture",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1494",
@@ -15493,7 +16127,8 @@
     "category": "Software",
     "theme": "Fitness & Sports",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1495",
@@ -15511,7 +16146,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1496",
@@ -15529,7 +16165,8 @@
     "category": "Software",
     "theme": "Toys & Games",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1498",
@@ -15547,7 +16184,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1501",
@@ -15565,7 +16203,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1502",
@@ -15583,7 +16222,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1504",
@@ -15601,7 +16241,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1505",
@@ -15619,7 +16260,8 @@
     "category": "Software",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1506",
@@ -15637,7 +16279,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1508",
@@ -15655,7 +16298,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1509",
@@ -15673,7 +16317,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1510",
@@ -15691,7 +16336,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1514",
@@ -15709,7 +16355,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1516",
@@ -15727,7 +16374,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1293",
@@ -15745,7 +16393,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1294",
@@ -15763,7 +16412,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1298",
@@ -15781,7 +16431,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1299",
@@ -15799,7 +16450,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1300",
@@ -15817,7 +16469,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1306",
@@ -15835,7 +16488,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1310",
@@ -15853,7 +16507,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1313",
@@ -15871,7 +16526,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1315",
@@ -15889,7 +16545,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1323",
@@ -15907,7 +16564,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1327",
@@ -15925,7 +16583,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1328",
@@ -15943,7 +16602,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1335",
@@ -15961,7 +16621,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1336",
@@ -15979,7 +16640,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1337",
@@ -15997,7 +16659,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1353",
@@ -16015,7 +16678,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1361",
@@ -16033,7 +16697,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1368",
@@ -16051,7 +16716,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1373",
@@ -16069,7 +16735,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1375",
@@ -16087,7 +16754,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1376",
@@ -16105,7 +16773,8 @@
     "category": "Hardware",
     "theme": "RDoebveoltoicpsm aenndt Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1387",
@@ -16123,7 +16792,8 @@
     "category": "Hardware",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1399",
@@ -16141,7 +16811,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1400",
@@ -16159,7 +16830,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1404",
@@ -16177,7 +16849,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1406",
@@ -16195,7 +16868,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1414",
@@ -16213,7 +16887,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1424",
@@ -16231,7 +16906,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1425",
@@ -16249,7 +16925,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1427",
@@ -16267,7 +16944,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1430",
@@ -16285,7 +16963,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1439",
@@ -16303,7 +16982,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1444",
@@ -16321,7 +17001,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1448",
@@ -16339,7 +17020,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1466",
@@ -16357,7 +17039,8 @@
     "category": "Hardware",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1469",
@@ -16375,7 +17058,8 @@
     "category": "Hardware",
     "theme": "Disaster Management",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1470",
@@ -16393,7 +17077,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1471",
@@ -16411,7 +17096,8 @@
     "category": "Hardware",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1472",
@@ -16429,7 +17115,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1473",
@@ -16447,7 +17134,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1474",
@@ -16465,7 +17153,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1475",
@@ -16483,7 +17172,8 @@
     "category": "Hardware",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1476",
@@ -16501,7 +17191,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1477",
@@ -16519,7 +17210,8 @@
     "category": "Hardware",
     "theme": "Smart Vehicles",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1478",
@@ -16537,7 +17229,8 @@
     "category": "Hardware",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1479",
@@ -16555,7 +17248,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1480",
@@ -16573,7 +17267,8 @@
     "category": "Hardware",
     "theme": "Heritage & Culture",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1481",
@@ -16591,7 +17286,8 @@
     "category": "Hardware",
     "theme": "Fitness & Sports",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1482",
@@ -16609,7 +17305,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1497",
@@ -16627,7 +17324,8 @@
     "category": "Hardware",
     "theme": "Toys & Games",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1499",
@@ -16645,7 +17343,8 @@
     "category": "Hardware",
     "theme": "Renewable / Sustainable Energy",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1503",
@@ -16663,7 +17362,8 @@
     "category": "Hardware",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1507",
@@ -16681,7 +17381,8 @@
     "category": "Hardware",
     "theme": "Transportation & Logistics",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1511",
@@ -16699,7 +17400,8 @@
     "category": "Hardware",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1512",
@@ -16717,7 +17419,8 @@
     "category": "Hardware",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1513",
@@ -16735,7 +17438,8 @@
     "category": "Hardware",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1288",
@@ -16753,7 +17457,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1303",
@@ -16771,7 +17476,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1317",
@@ -16789,7 +17495,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1330",
@@ -16807,7 +17514,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1343",
@@ -16825,7 +17533,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1354",
@@ -16843,7 +17552,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1365",
@@ -16861,7 +17571,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1379",
@@ -16879,7 +17590,8 @@
     "category": "Software",
     "theme": "Agriculture, FoodTech & Rural Development",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1390",
@@ -16897,7 +17609,8 @@
     "category": "Software",
     "theme": "Clean & Green Technology",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1402",
@@ -16915,7 +17628,8 @@
     "category": "Software",
     "theme": "MedTech / BioTech / HealthTech",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1415",
@@ -16933,7 +17647,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1429",
@@ -16951,7 +17666,8 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1441",
@@ -16969,7 +17685,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1453",
@@ -16987,7 +17704,8 @@
     "category": "Software",
     "theme": "Blockchain & Cybersecurity",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1463",
@@ -17005,7 +17723,8 @@
     "category": "Software",
     "theme": "Miscellaneous",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1488",
@@ -17023,7 +17742,8 @@
     "category": "Software",
     "theme": "Robotics and Drones",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   },
   {
     "ps_id": "SIH1500",
@@ -17041,7 +17761,8 @@
     "category": "Software",
     "theme": "Smart Education",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": true
   },
   {
     "ps_id": "SIH1515",
@@ -17059,6 +17780,7 @@
     "category": "Software",
     "theme": "Smart Automation",
     "submission_count": null,
-    "year": 2023
+    "year": 2023,
+    "hidden": false
   }
 ]

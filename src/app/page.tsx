@@ -27,7 +27,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 
-const problems = problemsData as unknown as Problem[];
+const problems = (problemsData as unknown as Problem[]).filter((p) => !p.hidden);
 const MAX_SUBMISSIONS = Math.max(
   ...problems.map((p) => p.submission_count ?? 0)
 );
