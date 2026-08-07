@@ -10,7 +10,6 @@ export const FILTER_FIELDS = [
   "theme",
   "category",
   "organization",
-  "department",
 ] as const;
 
 export type FilterField = (typeof FILTER_FIELDS)[number];
@@ -24,8 +23,7 @@ export const FILTER_LABELS: Record<FilterField, string> = {
   solution_type: "Solution Type",
   theme: "Theme",
   category: "Category",
-  organization: "Organization",
-  department: "Department",
+  organization: "Organization / Department",
 };
 
 export type FilterState = Record<FilterField, string[]> & {
@@ -62,7 +60,6 @@ export function emptyFilterState(maxSubmissions: number): FilterState {
     theme: [],
     category: [],
     organization: [],
-    department: [],
     submissionRange: [0, maxSubmissions],
     sort: "relevance",
     years: [],
@@ -72,8 +69,9 @@ export function emptyFilterState(maxSubmissions: number): FilterState {
 function fieldValues(problem: Problem, field: FilterField): string[] {
   if (field === "difficulty") return [normalizedDifficulty(problem.difficulty)];
   if (field === "category") return [problem.category];
-  if (field === "organization") return [problem.organization];
-  if (field === "department") return [problem.department];
+  if (field === "organization") {
+    return Array.from(new Set([problem.organization, problem.department]));
+  }
   return asArray(problem[field] as string | string[]);
 }
 
