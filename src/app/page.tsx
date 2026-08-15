@@ -9,6 +9,7 @@ import { Hero } from "@/components/hero";
 import { FiltersPanel } from "@/components/filters-panel";
 import { ProblemCard } from "@/components/problem-card";
 import { ProblemDialog } from "@/components/problem-dialog";
+import { BonusPointsDialog } from "@/components/bonus-points-dialog";
 import { useBookmarks } from "@/hooks/use-bookmarks";
 import {
   buildFilterOptions,
@@ -27,7 +28,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 
-const problems = (problemsData as unknown as Problem[]).filter((p) => !p.hidden);
+const problems = problemsData as unknown as Problem[];
 const MAX_SUBMISSIONS = Math.max(
   ...problems.map((p) => p.submission_count ?? 0)
 );
@@ -55,6 +56,7 @@ export default function Home() {
 
   return (
     <div className="flex min-h-screen flex-col bg-background">
+      <BonusPointsDialog />
       <Header
         bookmarkCount={bookmarkCount}
         showBookmarksOnly={showBookmarksOnly}
