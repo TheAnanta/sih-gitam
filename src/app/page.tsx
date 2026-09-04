@@ -11,6 +11,7 @@ import { ProblemCard } from "@/components/problem-card";
 import { ProblemDialog } from "@/components/problem-dialog";
 import { BonusPointsDialog } from "@/components/bonus-points-dialog";
 import { useBookmarks } from "@/hooks/use-bookmarks";
+import { useLiveSubmissionCounts } from "@/hooks/use-live-submissions";
 import {
   buildFilterOptions,
   emptyFilterState,
@@ -42,6 +43,7 @@ export default function Home() {
   const [showBookmarksOnly, setShowBookmarksOnly] = React.useState(false);
   const [activeProblem, setActiveProblem] = React.useState<Problem | null>(null);
   const { bookmarks, toggleBookmark, isBookmarked } = useBookmarks();
+  const liveSubmissionCounts = useLiveSubmissionCounts();
 
   const filtered = React.useMemo(() => {
     let result = searchProblems(problems, query);
@@ -49,8 +51,15 @@ export default function Home() {
     if (showBookmarksOnly) {
       result = result.filter((p) => bookmarks[`${p.year}-${p.ps_id}`]);
     }
+    if (Object.keys(liveSubmissionCounts).length > 0) {
+      result = result.map((p) =>
+        p.ps_id in liveSubmissionCounts
+          ? { ...p, submission_count: liveSubmissionCounts[p.ps_id] }
+          : p
+      );
+    }
     return sortProblems(result, filters.sort);
-  }, [query, filters, showBookmarksOnly, bookmarks]);
+  }, [query, filters, showBookmarksOnly, bookmarks, liveSubmissionCounts]);
 
   const bookmarkCount = Object.keys(bookmarks).length;
 
