@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Standalone Firebase Cloud Function project, not part of the Next app.
+    "sih2026-live-sync/**",
   ]),
 ]);
 
