@@ -41,7 +41,7 @@ export function ProblemCard({
     >
       <CardHeader className="gap-2 px-4 sm:px-6">
         <div className="flex items-start justify-between gap-3">
-          <div className="text-sm leading-snug font-semibold sm:text-base lg:text-lg">
+          <div className="line-clamp-3 text-sm leading-snug font-semibold sm:text-base lg:text-lg">
             {problem.title}
           </div>
           <div className="flex flex-shrink-0 items-center gap-2">

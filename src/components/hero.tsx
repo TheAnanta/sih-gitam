@@ -20,7 +20,8 @@ export function Hero({
     <section className="border-b border-border bg-gradient-to-b from-primary/5 to-background py-12 sm:py-16 lg:py-20">
       <div className="container mx-auto max-w-4xl space-y-6 px-4 text-center sm:space-y-7 sm:px-6 lg:px-8">
         <p className="text-xs font-medium tracking-wide text-primary uppercase sm:text-sm">
-          Smart India Hackathon · {yearCount} years of problem statements
+          Smart India Hackathon · {yearCount} year{yearCount === 1 ? "" : "s"} of problem
+          statements
         </p>
         <h1 className="text-3xl leading-tight font-bold tracking-tight text-balance sm:text-4xl lg:text-5xl">
           Discover innovative problem statements

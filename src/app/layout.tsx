@@ -72,9 +72,9 @@ const apercuMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "SIH GITAM Navigator | Smart India Hackathon Problem Statements",
+  title: "SIH Navigator | Smart India Hackathon Prep Platform",
   description:
-    "Discover, search, and filter Smart India Hackathon problem statements across every ministry, domain, and year.",
+    "Prepare for Smart India Hackathon with every problem statement, searchable and filterable across every ministry, domain, and year.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

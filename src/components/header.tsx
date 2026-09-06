@@ -18,7 +18,7 @@ export function Header({
       <div className="container mx-auto flex h-16 items-center justify-between gap-4 px-4 sm:px-6 lg:px-8">
         <div className="flex items-center gap-2.5">
           <Compass className="h-5 w-5 text-primary" aria-hidden="true" />
-          <span className="text-sm font-semibold sm:text-base">SIH GITAM Navigator</span>
+          <span className="text-sm font-semibold sm:text-base">SIH Navigator</span>
         </div>
         <div className="flex items-center gap-2 sm:gap-3">
           <Button
