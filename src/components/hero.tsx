@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Search, Sparkles, LayoutGrid } from "lucide-react";
 import { Input } from "@/components/ui/input";
 
@@ -17,7 +18,7 @@ export function Hero({
   yearCount: number;
 }) {
   return (
-    <section className="border-b border-border bg-gradient-to-b from-primary/5 to-background py-12 sm:py-16 lg:py-20">
+    <section className="border-b border-border bg-gradient-to-b from-primary/5 to-background pt-12 sm:pt-16 lg:pt-20">
       <div className="container mx-auto max-w-4xl space-y-6 px-4 text-center sm:space-y-7 sm:px-6 lg:px-8">
         <p className="text-xs font-medium tracking-wide text-primary uppercase sm:text-sm">
           Smart India Hackathon · {yearCount} year{yearCount === 1 ? "" : "s"} of problem
@@ -67,6 +68,27 @@ export function Hero({
             AI-Powered Search
           </span>
         </div>
+      </div>
+
+      <div className="mx-auto mt-8 w-full max-w-3xl px-4 sm:px-6 lg:px-8">
+        <div className="relative sm:hidden" style={{ aspectRatio: "2914 / 1440" }}>
+          <div className="blob blob-coral" aria-hidden="true" />
+          <Image
+            src="/images/hero-team-mobile.png"
+            alt="Illustration of a team collaborating on a hackathon project"
+            fill
+            priority
+            className="relative z-10 object-contain"
+          />
+        </div>
+        <Image
+          src="/images/hero-team.png"
+          alt="Illustration of a team collaborating on a hackathon project"
+          width={4194}
+          height={1024}
+          priority
+          className="hidden h-auto w-full sm:block"
+        />
       </div>
     </section>
   );

@@ -20,7 +20,21 @@ export function Header({
           <Compass className="h-5 w-5 text-primary" aria-hidden="true" />
           <span className="text-sm font-semibold sm:text-base">SIH Navigator</span>
         </div>
-        <div className="flex items-center gap-2 sm:gap-3">
+        <div className="flex items-center gap-3 sm:gap-4">
+          <a
+            href="https://theananta.in"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground"
+          >
+            <span className="hidden sm:inline">Built by</span>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/images/ananta-studio-logo.svg"
+              alt="Ananta Studio"
+              className="h-6 w-auto dark:invert"
+            />
+          </a>
           <Button
             variant={showBookmarksOnly ? "default" : "ghost"}
             size="sm"
