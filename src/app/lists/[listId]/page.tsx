@@ -11,6 +11,7 @@ import problemsData from "@/data/problems.json";
 import type { Problem } from "@/types/problem";
 import { normalizedDifficulty } from "@/types/problem";
 import { Header } from "@/components/header";
+import { Footer } from "@/components/footer";
 import { useBookmarks } from "@/hooks/use-bookmarks";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -215,6 +216,8 @@ export default function ListPage() {
           </>
         )}
       </section>
+
+      <Footer />
     </div>
   );
 }

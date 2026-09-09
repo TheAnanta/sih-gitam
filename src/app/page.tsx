@@ -6,6 +6,7 @@ import { SlidersHorizontal, Share2 } from "lucide-react";
 import problemsData from "@/data/problems.json";
 import { Problem } from "@/types/problem";
 import { Header } from "@/components/header";
+import { Footer } from "@/components/footer";
 import { Hero } from "@/components/hero";
 import { FiltersPanel } from "@/components/filters-panel";
 import { ProblemCard } from "@/components/problem-card";
@@ -230,6 +231,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <Footer />
 
       <ProblemDialog
         problem={activeProblem}
