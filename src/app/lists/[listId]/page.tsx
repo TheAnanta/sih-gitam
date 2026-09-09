@@ -24,6 +24,7 @@ export default function ListPage() {
   const params = useParams<{ listId: string }>();
   const listId = params.listId;
   const { user, loading: authLoading, signIn, signOut } = useAuth();
+  const canEdit = Boolean(user && !user.isAnonymous);
   const { bookmarks, toggleBookmark, isBookmarked } = useBookmarks(user);
 
   const [list, setList] = React.useState<ListDoc | null | undefined>(undefined);
@@ -110,7 +111,7 @@ export default function ListPage() {
               </Button>
             </div>
 
-            {user ? (
+            {canEdit && user ? (
               <div className="relative mb-6 max-w-md">
                 <Input
                   value={addQuery}
@@ -166,7 +167,7 @@ export default function ListPage() {
                     </div>
                   </div>
                   <div className="flex flex-shrink-0 items-center gap-1">
-                    {problem && user && (
+                    {problem && canEdit && (
                       <Button
                         variant="ghost"
                         size="sm"
@@ -187,7 +188,7 @@ export default function ListPage() {
                         </span>
                       </Button>
                     )}
-                    {user && (
+                    {canEdit && (
                       <Button
                         variant="ghost"
                         size="sm"

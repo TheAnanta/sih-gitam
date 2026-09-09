@@ -28,7 +28,7 @@ export function AuthButton({
     return <div className="h-9 w-9 animate-pulse rounded-full bg-muted" aria-hidden="true" />;
   }
 
-  if (!user) {
+  if (!user || user.isAnonymous) {
     return (
       <Button variant="outline" size="sm" className="h-9 gap-1.5 px-3" onClick={onSignIn}>
         <LogIn className="h-4 w-4" aria-hidden="true" />

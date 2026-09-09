@@ -2,25 +2,34 @@ rules_version = '2';
 
 service cloud.firestore {
   match /databases/{database}/documents {
+    // True for a signed-in user who is NOT the anonymous identity we give
+    // every visitor by default (see src/hooks/use-auth.ts) — i.e. someone
+    // who actually signed in with Google.
+    function isRealUser() {
+      return request.auth != null
+        && request.auth.token.firebase.sign_in_provider != 'anonymous';
+    }
+
     // Each user's own bookmark map. Only the signed-in owner can read/write it.
     match /users/{userId} {
       allow read, write: if request.auth != null && request.auth.uid == userId;
     }
 
     // Shared lists ("albums"): anyone can read (so links work for logged-out
-    // visitors), any signed-in user can create a list or add/remove items,
-    // only the owner can delete the list itself.
+    // visitors, including our own anonymously-authenticated ones), but only
+    // a *real* signed-in user (not the anonymous identity every visitor gets
+    // by default) can create a list, edit it, or add/remove items.
     match /lists/{listId} {
       allow read: if true;
-      allow create: if request.auth != null
+      allow create: if isRealUser()
         && request.resource.data.ownerId == request.auth.uid;
-      allow update: if request.auth != null;
-      allow delete: if request.auth != null
+      allow update: if isRealUser();
+      allow delete: if isRealUser()
         && resource.data.ownerId == request.auth.uid;
 
       match /items/{itemId} {
         allow read: if true;
-        allow write: if request.auth != null;
+        allow write: if isRealUser();
       }
     }
 

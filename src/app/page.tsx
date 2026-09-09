@@ -54,7 +54,7 @@ export default function Home() {
   const dialogOpenedAtRef = React.useRef<number | null>(null);
 
   const handleShareList = React.useCallback(async () => {
-    if (!user) {
+    if (!user || user.isAnonymous) {
       signIn();
       return;
     }
@@ -77,7 +77,7 @@ export default function Home() {
     (problem: Problem) => {
       setActiveProblem(problem);
       dialogOpenedAtRef.current = Date.now();
-      if (user) logProblemClick(problem, user.uid);
+      if (user) logProblemClick(problem, user);
     },
     [user]
   );
@@ -86,7 +86,7 @@ export default function Home() {
     if (activeProblem && user && dialogOpenedAtRef.current !== null) {
       const durationMs = Date.now() - dialogOpenedAtRef.current;
       const bookmarked = isBookmarked(`${activeProblem.year}-${activeProblem.ps_id}`);
-      logDialogClose(activeProblem, user.uid, durationMs, bookmarked);
+      logDialogClose(activeProblem, user, durationMs, bookmarked);
     }
     dialogOpenedAtRef.current = null;
     setActiveProblem(null);
