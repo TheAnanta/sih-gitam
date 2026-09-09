@@ -1,17 +1,27 @@
 "use client";
 
 import { Compass, Bookmark } from "lucide-react";
+import type { User } from "firebase/auth";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { AuthButton } from "@/components/auth-button";
 import { Button } from "@/components/ui/button";
 
 export function Header({
   bookmarkCount,
   showBookmarksOnly,
   onToggleBookmarksOnly,
+  user,
+  authLoading,
+  onSignIn,
+  onSignOut,
 }: {
   bookmarkCount: number;
   showBookmarksOnly: boolean;
   onToggleBookmarksOnly: () => void;
+  user: User | null;
+  authLoading: boolean;
+  onSignIn: () => void;
+  onSignOut: () => void;
 }) {
   return (
     <header className="sticky top-0 z-40 w-full border-b border-border bg-background/80 backdrop-blur supports-backdrop-filter:bg-background/60">
@@ -50,6 +60,7 @@ export function Header({
               </span>
             )}
           </Button>
+          <AuthButton user={user} loading={authLoading} onSignIn={onSignIn} onSignOut={onSignOut} />
           <ThemeToggle />
         </div>
       </div>

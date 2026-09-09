@@ -1,0 +1,36 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Each user's own bookmark map. Only the signed-in owner can read/write it.
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Shared lists ("albums"): anyone can read (so links work for logged-out
+    // visitors), any signed-in user can create a list or add/remove items,
+    // only the owner can delete the list itself.
+    match /lists/{listId} {
+      allow read: if true;
+      allow create: if request.auth != null
+        && request.resource.data.ownerId == request.auth.uid;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null
+        && resource.data.ownerId == request.auth.uid;
+
+      match /items/{itemId} {
+        allow read: if true;
+        allow write: if request.auth != null;
+      }
+    }
+
+    // Behavioral analytics: write-only from the client (create new events),
+    // never readable or editable by clients. Dashboards read this via the
+    // Admin SDK / a trusted backend, not directly from the browser.
+    match /analytics_events/{eventId} {
+      allow create: if request.auth != null
+        && request.resource.data.userId == request.auth.uid;
+      allow read, update, delete: if false;
+    }
+  }
+}

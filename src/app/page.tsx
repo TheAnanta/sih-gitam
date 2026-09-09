@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { SlidersHorizontal } from "lucide-react";
+import { useRouter } from "next/navigation";
+import { SlidersHorizontal, Share2 } from "lucide-react";
 import problemsData from "@/data/problems.json";
 import { Problem } from "@/types/problem";
 import { Header } from "@/components/header";
@@ -11,7 +12,10 @@ import { ProblemCard } from "@/components/problem-card";
 import { ProblemDialog } from "@/components/problem-dialog";
 import { BonusPointsDialog } from "@/components/bonus-points-dialog";
 import { useBookmarks } from "@/hooks/use-bookmarks";
+import { useAuth } from "@/hooks/use-auth";
 import { useLiveSubmissionCounts } from "@/hooks/use-live-submissions";
+import { logProblemClick, logDialogClose } from "@/lib/analytics";
+import { createList } from "@/lib/lists";
 import {
   buildFilterOptions,
   emptyFilterState,
@@ -38,12 +42,55 @@ const DOMAIN_COUNT = new Set(problems.map((p) => p.department)).size;
 const YEARS = Array.from(new Set(problems.map((p) => p.year))).sort((a, b) => b - a);
 
 export default function Home() {
+  const router = useRouter();
   const [query, setQuery] = React.useState("");
   const [filters, setFilters] = React.useState(() => emptyFilterState(MAX_SUBMISSIONS));
   const [showBookmarksOnly, setShowBookmarksOnly] = React.useState(false);
   const [activeProblem, setActiveProblem] = React.useState<Problem | null>(null);
-  const { bookmarks, toggleBookmark, isBookmarked } = useBookmarks();
+  const [creatingList, setCreatingList] = React.useState(false);
+  const { user, loading: authLoading, signIn, signOut } = useAuth();
+  const { bookmarks, toggleBookmark, isBookmarked } = useBookmarks(user);
   const liveSubmissionCounts = useLiveSubmissionCounts();
+  const dialogOpenedAtRef = React.useRef<number | null>(null);
+
+  const handleShareList = React.useCallback(async () => {
+    if (!user) {
+      signIn();
+      return;
+    }
+    const bookmarkedProblems = problems.filter((p) => bookmarks[`${p.year}-${p.ps_id}`]);
+    if (bookmarkedProblems.length === 0) return;
+    setCreatingList(true);
+    try {
+      const listId = await createList(
+        `${user.displayName ?? "My"}'s shortlist`,
+        bookmarkedProblems,
+        user
+      );
+      router.push(`/lists/${listId}`);
+    } finally {
+      setCreatingList(false);
+    }
+  }, [user, bookmarks, signIn, router]);
+
+  const openProblem = React.useCallback(
+    (problem: Problem) => {
+      setActiveProblem(problem);
+      dialogOpenedAtRef.current = Date.now();
+      if (user) logProblemClick(problem, user.uid);
+    },
+    [user]
+  );
+
+  const closeProblem = React.useCallback(() => {
+    if (activeProblem && user && dialogOpenedAtRef.current !== null) {
+      const durationMs = Date.now() - dialogOpenedAtRef.current;
+      const bookmarked = isBookmarked(`${activeProblem.year}-${activeProblem.ps_id}`);
+      logDialogClose(activeProblem, user.uid, durationMs, bookmarked);
+    }
+    dialogOpenedAtRef.current = null;
+    setActiveProblem(null);
+  }, [activeProblem, user, isBookmarked]);
 
   const filtered = React.useMemo(() => {
     let result = searchProblems(problems, query);
@@ -70,6 +117,10 @@ export default function Home() {
         bookmarkCount={bookmarkCount}
         showBookmarksOnly={showBookmarksOnly}
         onToggleBookmarksOnly={() => setShowBookmarksOnly((v) => !v)}
+        user={user}
+        authLoading={authLoading}
+        onSignIn={signIn}
+        onSignOut={signOut}
       />
       <Hero
         query={query}
@@ -89,6 +140,18 @@ export default function Home() {
               </p>
             </div>
             <div className="flex items-center gap-3">
+              {showBookmarksOnly && bookmarkCount > 0 && (
+                <Button
+                  variant="outline"
+                  size="sm"
+                  className="gap-1.5"
+                  onClick={handleShareList}
+                  disabled={creatingList}
+                >
+                  <Share2 className="h-4 w-4" />
+                  {creatingList ? "Sharing..." : "Share as list"}
+                </Button>
+              )}
               <Tabs
                 value={filters.years.length === 1 ? String(filters.years[0]) : "all"}
                 onValueChange={(value) =>
@@ -154,7 +217,7 @@ export default function Home() {
                   problem={problem}
                   bookmarked={isBookmarked(`${problem.year}-${problem.ps_id}`)}
                   onToggleBookmark={() => toggleBookmark(`${problem.year}-${problem.ps_id}`)}
-                  onClick={() => setActiveProblem(problem)}
+                  onClick={() => openProblem(problem)}
                 />
               ))}
               {filtered.length === 0 && (
@@ -171,7 +234,7 @@ export default function Home() {
       <ProblemDialog
         problem={activeProblem}
         open={Boolean(activeProblem)}
-        onOpenChange={(open) => !open && setActiveProblem(null)}
+        onOpenChange={(open) => !open && closeProblem()}
         bookmarked={
           activeProblem ? isBookmarked(`${activeProblem.year}-${activeProblem.ps_id}`) : false
         }

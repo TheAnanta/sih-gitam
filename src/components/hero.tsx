@@ -77,6 +77,7 @@ export function Hero({
             src="/images/hero-team-mobile.png"
             alt="Illustration of a team collaborating on a hackathon project"
             fill
+            sizes="(max-width: 640px) 100vw, 768px"
             priority
             className="relative z-10 object-contain"
           />
