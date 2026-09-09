@@ -16,7 +16,7 @@ function baseFields(problem: Problem, user: User) {
 }
 
 export function logProblemClick(problem: Problem, user: User) {
-  return addDoc(collection(db, "analytics_events"), {
+  return addDoc(collection(db, "sih_nav_analytics_events"), {
     ...baseFields(problem, user),
     eventType: "click",
     timestamp: serverTimestamp(),
@@ -31,7 +31,7 @@ export function logDialogClose(
   durationMs: number,
   bookmarked: boolean
 ) {
-  return addDoc(collection(db, "analytics_events"), {
+  return addDoc(collection(db, "sih_nav_analytics_events"), {
     ...baseFields(problem, user),
     eventType: "dialog_close",
     durationMs,

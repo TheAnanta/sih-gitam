@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // Standalone Firebase Cloud Function project, not part of the Next app.
     "sih2026-live-sync/**",
+    // Standalone local Node script, not part of the Next app.
+    "analytics-dashboard/**",
   ]),
 ]);
 

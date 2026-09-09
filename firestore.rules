@@ -1,5 +1,13 @@
 rules_version = '2';
 
+// NOTE: this Firebase project (sih-connect) is shared with another app (the
+// "SIH Team Formation Platform" — uses the `users`, `analytics_events`, and
+// `conversations` collections with its own schema). Before SIH Navigator
+// started writing here, every collection was fully open (no rules). To avoid
+// breaking that app, we only lock down collections that are unambiguously
+// ours (namespaced with an `sih_nav_` prefix, plus `lists`, which the other
+// app doesn't use); everything else keeps its original wide-open behavior.
+
 service cloud.firestore {
   match /databases/{database}/documents {
     // True for a signed-in user who is NOT the anonymous identity we give
@@ -8,11 +16,6 @@ service cloud.firestore {
     function isRealUser() {
       return request.auth != null
         && request.auth.token.firebase.sign_in_provider != 'anonymous';
-    }
-
-    // Each user's own bookmark map. Only the signed-in owner can read/write it.
-    match /users/{userId} {
-      allow read, write: if request.auth != null && request.auth.uid == userId;
     }
 
     // Shared lists ("albums"): anyone can read (so links work for logged-out
@@ -33,13 +36,23 @@ service cloud.firestore {
       }
     }
 
-    // Behavioral analytics: write-only from the client (create new events),
-    // never readable or editable by clients. Dashboards read this via the
-    // Admin SDK / a trusted backend, not directly from the browser.
-    match /analytics_events/{eventId} {
+    // SIH Navigator's own behavioral analytics, namespaced to avoid the
+    // collision with the other app's pre-existing `analytics_events`
+    // collection. Write-only from the client; dashboards read this locally
+    // via the user's own gcloud credentials, not from the browser.
+    match /sih_nav_analytics_events/{eventId} {
       allow create: if request.auth != null
         && request.resource.data.userId == request.auth.uid;
       allow read, update, delete: if false;
+    }
+
+    // Everything else (users/, analytics_events/, conversations/, and
+    // anything else the other app uses, including SIH Navigator's own
+    // bookmark data at users/{uid}.bookmarks, which now cohabits that
+    // collection) keeps the fully-open behavior this project had before we
+    // touched it.
+    match /{document=**} {
+      allow read, write: if true;
     }
   }
 }

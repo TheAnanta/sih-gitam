@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "analytics": "node analytics-dashboard/generate.js"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
