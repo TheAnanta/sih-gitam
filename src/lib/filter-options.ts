@@ -146,6 +146,7 @@ export function searchProblems(problems: Problem[], query: string): Problem[] {
   const terms = q.split(/\s+/);
   return problems.filter((p) => {
     const haystack = [
+      p.ps_id,
       p.title,
       p.summary,
       p.organization,
